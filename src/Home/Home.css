@@ -20,27 +20,7 @@
   text-align: center;
   height: 117px;
   width: 117px;
-  background-color: #006400;
-}
-
-.pathblocks{
-  text-align: center;
-  height: 117px;
-  width: 117px;
-  background-color: #00ff00;
-}
-
-.directionspace{
-  position: absolute;
-  height: 250px;
-  width: 250px;
-}
-
-.directionbuttons{
-  text-align: center;
-  position: static;
-  height: 50px;
-  width: 70px;
+  background-color: #000000;
 }
 
 .App-logo {

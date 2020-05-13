@@ -76,52 +76,15 @@ render() {
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button id="9" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button id="10" validpath={true} className="pathblocks" alt="pathblocks" /></button>
       </header>
 
       <header className="pictures">
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button id="7" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button id="8" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
       </header>
 
       <header className="pictures">
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button id="5" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button id="6" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      </header>
-
-      <header className="directionspace">
-      <button className="directionbuttons" alt="directionbuttons" onClick={() => this.goUp(this.number)} > UP </button>
-      </header>
-
-      <header className="pictures">
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button id="4" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      <button><button className="solidblocks" alt="solidblocks" /></button>
-      </header>
-
-      <header className="directionspace">
-      <button className="directionbuttons" > LEFT </button>
-      <button className="directionbuttons" > DOWN </button>
-      <button className="directionbuttons" alt="directionbuttons" onClick={() => this.goRight(this.number)} > RIGHT </button>
-      </header>
-
-      <header className="pictures">
-      <button><button style={{backgroundColor: "#ff0000"}} id="1" className="pathblocks" alt="pathblocks" /></button>
-      <button><button id="2" validpath={true} className="pathblocks" alt="pathblocks" /></button>
-      <button><button id="3" validpath={true} className="pathblocks" alt="pathblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
       <button><button className="solidblocks" alt="solidblocks" /></button>
